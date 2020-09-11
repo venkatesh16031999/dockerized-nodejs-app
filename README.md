@@ -1,4 +1,4 @@
-# dockerized-nodejs-app
+# dockerized-nodejs-app with Mongodb
 
 ## Pre-requisite
 1. Install docker
