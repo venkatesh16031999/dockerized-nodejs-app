@@ -1,6 +1,6 @@
 # dockerized-nodejs-app
 
-## Pre-requiste
+## Pre-requisite
 1. Install docker
 2. Install mongodb-compass-community to interact with database
 
