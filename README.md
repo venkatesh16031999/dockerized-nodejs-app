@@ -6,4 +6,4 @@
 
 ## To run a backend server use 
 
-# docker-compose up --build
+### docker-compose up --build
